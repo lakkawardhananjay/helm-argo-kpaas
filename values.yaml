@@ -3,7 +3,7 @@ replicaCount: 1
 image:
   repository: dhananjaylakkawar/heroku-alike
   pullPolicy: IfNotPresent
-  tag: "c9ca99e"
+  tag: "7cc7d8f"
 
 service:
   type: ClusterIP
